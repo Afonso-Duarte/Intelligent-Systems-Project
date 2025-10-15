@@ -10,18 +10,19 @@ Intelligent-Systems-Project/
 │   ├── processed/                     
 │   └── README.md               
 │
-├── notebooks/
+├── code/                     
 │   ├── 01_exploratory_analysis.ipynb
 │   ├── 02_fuzzy_model.ipynb
 │   ├── 03_neuro_fuzzy_model.ipynb
 │   ├── 04_deep_models_lstm_cnn.ipynb
 │   └── 05_evaluation_and_comparison.ipynb
 │
-|── models/
-│   ├── fuzzy_model.py
-│   ├── neuro_fuzzy_model.py
-│   ├── lstm_model.py
-│   └── cnn_model.py
+│   ├── models/             
+│       ├── __init__.py
+│       ├── fuzzy_model.py
+│       ├── neuro_fuzzy_model.py
+│       ├── lstm_model.py
+│       └── cnn_model.py
 │
 ├── Trained_models/              
 │   ├── fuzzy_model.pkl
@@ -34,6 +35,9 @@ Intelligent-Systems-Project/
 │   ├── final_report.pdf
 │   └── presentation_slides.pptx
 │
-├── requirements.txt             
+├── requirements.txt
+├── __init__.py          
 ├── README.md                    
-└── .gitignore                   
+└── .gitignore
+
+
