@@ -18,7 +18,6 @@ Intelligent-Systems-Project/
 │   └── 05_evaluation_and_comparison.ipynb
 │
 │   ├── models/             
-│       ├── __init__.py
 │       ├── fuzzy_model.py
 │       ├── neuro_fuzzy_model.py
 │       ├── lstm_model.py
