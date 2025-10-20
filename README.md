@@ -13,34 +13,35 @@ Intelligent-Systems/
 │   ├── data/
 │   │   ├── raw/                     
 │   │   ├── processed/                     
-│   │   └── README.md               
+│   │   └── README.md
+|   |
+│   ├── Images/             
 │   │
 │   ├── code/                     
 │   │   ├── 01_exploratory_analysis.ipynb
 │   │   ├── 02_fuzzy_model.ipynb
 │   │   ├── 03_neuro_fuzzy_model.ipynb
 │   │   ├── 04_ANFISpy_model.ipynb
-│   │   └── 05_LSTM_Deep_model.ipynb
+|   |   ├── 05_LSTM_Deep_model.ipynb
+│   │   └── 06_Fuzzy_CNN_LSTM_model.ipynb
+|   |
 │   │
 │   │   ├── models/             
-│   │       ├── fuzzy_model.py
-│   │       ├── neuro_fuzzy_model.py
+│   │       ├── ANFIS_Model.py
+│   │       ├── Fuzzy_CNN_LSTM.py
+|   |       ├── Fuzzy_Model.py
 │   │       └── LSTM.py
 │   │
 │   ├── Trained_models/              
-│   │   ├── fuzzy_model.pkl
-│   │   ├── neuro_fuzzy_model.h5
-│   │   ├── lstm_model.h5
-│   │   └── cnn_model.h5
+│   │   ├── ANFISpy_Model.pth
+│   │   ├── Hybrid_ANFIS_Model.pth  
+│   │   └──  LS_model.pth
 │   │
-│   ├── reports/
-│   │   ├── figures/                
-│   │   ├── final_report.pdf
-│   │   └── presentation_slides.pptx
-│   │
-│   ├── requirements.txt         
-│   ├── README.md                    
-│   └── .gitignore
+|   └── Project_Proposal_103913.pdf
+|   
+├── requirements.txt         
+├── README.md                    
+└── .gitignore
 
 
 
