@@ -38,10 +38,8 @@ Intelligent-Systems/
 │   │   └──  LS_model.pth
 │   │
 |   └── Project_Proposal_103913.pdf
-|   
-├── requirements.txt         
-├── README.md                    
-└── .gitignore
+|                     
+└── README.md 
 
 
 
