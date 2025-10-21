@@ -17,7 +17,7 @@ Intelligent-Systems/
 |   |
 │   ├── Images/             
 │   │
-│   ├── code/                     
+│   ├── NoteBooks/                     
 │   │   ├── 01_exploratory_analysis.ipynb
 │   │   ├── 02_fuzzy_model.ipynb
 │   │   ├── 03_neuro_fuzzy_model.ipynb
@@ -37,6 +37,8 @@ Intelligent-Systems/
 │   │   ├── Hybrid_ANFIS_Model.pth  
 │   │   └──  LS_model.pth
 │   │
+|   ├── Intelligent_Systems_Project_Report.pdf
+|   ├── Presentation.pptx
 |   └── Project_Proposal_103913.pdf
 |                     
 └── README.md 
